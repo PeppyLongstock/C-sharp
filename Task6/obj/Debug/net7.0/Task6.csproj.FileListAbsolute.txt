@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/C#/Task6/bin/Debug/net7.0/Task6
+/Users/asyateresenko/Desktop/Git/C#/Task6/bin/Debug/net7.0/Task6.deps.json
+/Users/asyateresenko/Desktop/Git/C#/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/C#/Task6/bin/Debug/net7.0/Task6.dll
+/Users/asyateresenko/Desktop/Git/C#/Task6/bin/Debug/net7.0/Task6.pdb
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.dll
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/refint/Task6.dll
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.pdb
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/C#/Task6/obj/Debug/net7.0/ref/Task6.dll
